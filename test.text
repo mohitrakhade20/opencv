@@ -1,0 +1,16 @@
+1650  pip install opencv-python
+ 1651  python3 test.py 
+ 1652  pip install htm
+ 1653  python3 test.py 
+ 1654  python3 VolumeHandControlAdvance.py 
+ 1655  python3 HandTrackingModule.py 
+ 1656  pip install mp
+ 1657  python3 HandTrackingModule.py 
+ 1658  python3 VolumeHandControlAdvance.py 
+ 1659  pip3 install mp
+ 1660  python3 VolumeHandControlAdvance.py 
+ 1661  python3 VolumeHandControl.py 
+ 1662  pip install mediapipe
+ 1663  python3 VolumeHandControl.py 
+ 1664  pip install comtypes
+ 1665  python3 VolumeHandControl.py 
